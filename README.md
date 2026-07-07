@@ -1,6 +1,6 @@
 # CareBridge — AI-Enabled OR-to-ICU Bed Escalation System
 
-**[▶ Live Demo](https://nbhandari3.github.io/CareBridge)**
+**[▶ Live Demo](https://nbhandari3.github.io/OR_to_ICU/)**
 
 An AI-enabled surgical escalation and ICU bed management prototype that replaces
 informal, phone-based OR-to-ICU coordination with a structured, real-time digital
